@@ -1,3 +1,4 @@
 # mock-website
-###A simple mock website !
-##On progress .....
+## On progress .....
+### A simple mock website !
+
